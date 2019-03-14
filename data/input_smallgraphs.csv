@@ -1,0 +1,556 @@
+name,graph6
+2K_{1},A?
+K_{2},A_
+3K_{1} = co-triangle,B?
+triangle = K_{3} = C_{3},Bw
+\overline{P_{3}},BO
+P_{3},Bg
+4K_{1} = \overline{K_{4}},C?
+K_{4} = W_{3},C~
+co-diamond,CC
+diamond = K_{4}- e = 2-fan,Cz
+co-paw,CE
+paw = 3-pan,Cx
+2K_{2} = \overline{C_{4}},CK
+"C_{4} = K_{2,2}",Cr
+"claw = K_{1,3}",Cs
+co-claw,CJ
+P_{4},Ch
+5K_{1} = \overline{K_{5}},D??
+K_{5},D~{
+\overline{K_{5}- e} = 5K_{1}+ e = K_{2}\cup 3K_{1},D?O
+K_{5}- e,D~k
+P_{3}\cup 2K_{1},Do?
+\overline{P_{3}\cup 2K_{1}},DN{
+\overline{W_{4}},DQ?
+W_{4},Dl{
+claw \cup K_{1},Ds?
+\overline{claw \cup K_{1}},DJ{
+P_{2}\cup P_{3},D`C
+\overline{P_{2}\cup P_{3}},D]w
+co-gem,DU?
+gem = 3-fan,Dh{
+K_{3}\cup 2K_{1},Dw?
+\overline{K_{3}\cup 2K_{1}},DF{
+"K_{1,4}",Ds_
+"\overline{K_{1,4}} = K_{4}\cup K_{1}",DJ[
+co-butterfly = C_{4}\cup K_{1},DBW
+butterfly = hourglass,D{c
+fork = chair,DiC
+co-fork = kite = co-chair = \overline{chair},DTw
+co-dart,DGw
+dart,DvC
+P_{5},DhC
+house = \overline{P_{5}},DUw
+"K_{2}\cup K_{3} = \overline{K_{2,3}}",D`K
+"K_{2,3}",D]o
+P = 4-pan = banner,DrG
+\overline{P},DKs
+bull,D{O
+"cricket = K_{1,4}+e",DiS
+co-cricket = diamond \cup K_{1},DTg
+C_{5},Dhc
+3K_{2},E`?G
+\overline{3K_{2}},E]~o
+X_{197} = P_{3}\cup\overline{P_{3}},EgC?
+\overline{X_{197}},EVzw
+P_{2}\cup P_{4},Eh?G
+\overline{P_{2}\cup P_{4}},EU~o
+2P_{3},EgCG
+\overline{2P_{3}},EVzo
+C_{4}\cup 2K_{1},El??
+\overline{C_{4}\cup 2K_{1}},EQ~w
+"K_{2}\cup claw = K_{2}\cup K_{1,3}",Es?G
+\overline{K_{2}\cup claw},EJ~o
+"cross = star_{1,1,1,2}",EiD?
+co-cross,ETyw
+H,EgSG
+\overline{H},EVjo
+C_{4}\cup P_{2},El?G
+\overline{C_{4}\cup P_{2}},EQ~o
+"E = star_{1,2,2}",EhC_
+"\overline{E} = co-star_{1,2,2}",EUzW
+K_{3}\cup P_{3},EWCW
+"K_{3,3}+e",Efz_
+X_{198} = \overline{P}\cup K_{1},EhK?
+\overline{X_{198}},EUrw
+P_{6},EhCG
+\overline{P_{6}},EUzo
+\overline{W_{5}} = C_{5}\cup K_{1},EUW?
+W_{5},Ehfw
+"X_{172} = star_{1,1,3}",EhCO
+\overline{X_{172}},EUzg
+co-fork \cup K_{1} = kite \cup K_{1},EDaW
+\overline{co-fork \cup K_{1}} = \overline{kite \cup K_{1}},Ey\_
+butterfly \cup K_{1},E{c?
+\overline{butterfly \cup K_{1}},EBZw
+co-4-fan,EUw?
+4-fan,EhFw
+A,EhSG
+\overline{A},EUjo
+R,ElCO
+\overline{R},EQzg
+"2K_{3} = \overline{K_{3,3}}",EwCW
+"K_{3,3}",EFz_
+C_{6},EhEG
+\overline{C_{6}},EUxo
+\overline{X_{98}},EQUO
+X_{98} = twin_{3}-house,Elhg
+net = \overline{S_{3}},EDbO
+S_{3},Ey[g
+X_{18},ElCG
+\overline{X_{18}},EQzo
+5-pan,EhcG
+\overline{5-pan},EUZo
+X_{166},EhD_
+\overline{X_{166}},EUyW
+X_{169},EhGg
+\overline{X_{169}},EUvO
+X_{84},ElD?
+\overline{X_{84}},EQyw
+X_{95},EXCW
+\overline{X_{95}},Eez_
+gem \cup K_{1},Eq{?
+\overline{gem \cup K_{1}},ELBw
+\overline{W_{4}\cup K_{1}},EQBw
+W_{4}\cup K_{1},El{?
+X_{37},EhMG
+\overline{X_{37}},EUpo
+fish,ErCW
+co-fish,EKz_
+domino,ErGW
+co-domino,EKv_
+twin-C_{5},EhdG
+co-twin-C_{5} = \overline{twin-C_{5}},EUYo
+\overline{X_{58}},EUwG
+X_{58},EhFo
+"2K_{3}+ e = \overline{K_{3,3}-e}",EwCw
+"K_{3,3}-e",EFz?
+\overline{X_{5}},EAxo
+X_{5},E|EG
+antenna,EjCg
+co-antenna,ESzO
+X_{45},EhQg
+\overline{X_{45}},EUlO
+co-twin-house = \overline{twin-house},EQKw
+twin-house,Elr?
+X_{167},EhTO
+\overline{X_{167}},EUig
+X_{168},EhPo
+\overline{X_{168}},EUmG
+X_{170},EhGw
+\overline{X_{170}},EUv?
+X_{171},EhCw
+\overline{X_{171}},EUz?
+X_{96},EgTg
+\overline{X_{96}},EViO
+X_{163},Ehp_
+\overline{X_{163}},EUMW
+claw \cup 3K_{1},Fs???
+\overline{claw \cup 3K_{1}},FJ~~w
+P_{3}\cup P_{4},Fh?GG
+\overline{P_{3}\cup P_{4}},FU~vo
+"X_{177} = star_{1,1,3}\cup K_{1}",FhCO?
+\overline{X_{177}},FUznw
+A \cup K_{1},Fr?__
+\overline{A \cup K_{1}},FK~^W
+net \cup K_{1},FjGO?
+\overline{net \cup K_{1}},FSvnw
+"T_{2} = star_{2,2,2}",FhC_G
+\overline{T_{2}},FUz^o
+P_{7},FhCGG
+\overline{P_{7}},FUzvo
+"star_{1,2,3} = skew-star",FhCG_
+"\overline{star_{1,2,3}}",FUzvW
+X_{85},FhD?_
+\overline{X_{85}},FUy~W
+claw \cup triangle,Fs?GW
+\overline{claw \cup triangle},FJ~v_
+C_{4}\cup K_{3},Fl?GW
+\overline{C_{4}\cup K_{3}},FQ~v_
+6-pan,FhEGG
+\overline{6-pan},FUxvo
+C_{7},FhCKG
+\overline{C_{7}},FUzro
+\overline{X_{12}},FKdE?
+X_{12},FrYxw
+X_{41},FhO_W
+\overline{X_{41}},FUn^_
+longhorn,FhCH_
+co-longhorn,FUzuW
+X_{2},FhDOG
+\overline{X_{2}},FUyno
+X_{6},Fl_GO
+\overline{X_{6}},FQ^vg
+X_{130},FhDAG
+\overline{X_{130}},FUy|o
+eiffeltower,FhCoG
+co-eiffeltower,FUzNo
+\overline{X_{11}},FKde?
+X_{11},FrYXw
+X_{20},FhCiG
+\overline{X_{20}},FUzTo
+X_{38},FhCKg
+\overline{X_{38}},FUzrO
+X_{3},FrGX?
+\overline{X_{3}},FKvew
+X_{7},Fl_GW
+\overline{X_{7}},FQ^v_
+X_{27},FlGHG
+\overline{X_{27}},FQvuo
+X_{30},FhOgW
+\overline{X_{30}},FUnV_
+X_{173},FhEKG
+\overline{X_{173}},FUxro
+\overline{X_{175}},FUwK?
+X_{175},FhFrw
+\overline{X_{90}},FUWPG
+X_{90},Fhfmo
+\overline{X_{106}},FSwq?
+X_{106},FjFLw
+X_{127},F`GV_
+\overline{X_{127}},F]vgW
+\overline{X_{128}},FUg`G
+X_{128},FhV]o
+X_{134},FhDWG
+\overline{X_{134}},FUyfo
+\overline{X_{162}},FsiOG
+X_{162},FJTno
+"K_{3,3}\cup K_{1}",FFz_?
+"\overline{K_{3,3}\cup K_{1}}",FwC^w
+\overline{X_{205}},FUw`G
+X_{205},FhF]o
+X_{206},FlaGW
+\overline{X_{206}},FQ\v_
+X_{207},FlaI_
+\overline{X_{207}},FQ\tW
+X_{212},FhE`W
+\overline{X_{212}},FUx]_
+S_{3}\cup K_{1},Fy[g?
+\overline{S_{3}\cup K_{1}},FDbVw
+\overline{X_{42}},FExaO
+X_{42},FxE\g
+X_{32},FhFh?
+\overline{X_{32}},FUwUw
+X_{9},FhEhO
+\overline{X_{9}},FUxUg
+X_{8},FrGWW
+\overline{X_{8}},FKvf_
+X_{33},FhEj?
+\overline{X_{33}},FUxSw
+co-rising sun,F?M]W
+rising sun,F~p`_
+X_{39},FhhOW
+\overline{X_{39}},FUUn_
+\overline{X_{46}},FUhS_
+X_{46},FhUjW
+\overline{X_{15}},FQFb_
+X_{15},Flw[W
+\overline{W_{6}},FLv_?
+W_{6},FqG^w
+BW_{3},FqG[o
+\overline{BW_{3}},FLvbG
+parapluie = co-parachute,FAYFo
+parachute = co-parapluie,F|dwG
+\overline{X_{82}},FGrEg
+X_{82},FvKxO
+X_{176},FhCJo
+\overline{X_{176}},FUzsG
+\overline{X_{87}},FUYT?
+X_{87},Fhdiw
+\overline{X_{88}},FDbRO
+X_{88},Fy[kg
+\overline{X_{89}},FUWsG
+X_{89},FhfJo
+X_{92},FErF?
+\overline{X_{92}},FxKww
+\overline{X_{97}},F?vFO
+X_{97},F~Gwg
+\overline{X_{184}},F_Kz_
+X_{184},F^rCW
+\overline{X_{103}},FEPqg
+X_{103},FxmLO
+\overline{X_{105}},FUwo_
+X_{105},FhFNW
+X_{129},FhCeo
+\overline{X_{129}},FUzXG
+X_{132},FhDEg
+\overline{X_{132}},FUyxO
+\overline{X_{159}},FsioG
+X_{159},FJTNo
+X_{199},FhCNo
+\overline{X_{199}},FUzoG
+co-6-fan,FUzo?
+6-fan,FhCNw
+\overline{X_{200}},FUxoG
+X_{200},FhENo
+X_{208},FnaI_
+\overline{X_{208}},FO\tW
+X_{209},FhCnO
+\overline{X_{209}},FUzOg
+X_{210},FhDUo
+\overline{X_{210}},FUyhG
+\overline{X_{211}},FUyHG
+X_{211},FhDuo
+X_{213},FhFWo
+\overline{X_{213}},FUwfG
+X_{214},FlGHw
+\overline{X_{214}},FQvu?
+X_{13},FlwWG
+\overline{X_{13}},FQFfo
+X_{36},FhhWW
+\overline{X_{36}},FUUf_
+X_{35},FhFj?
+\overline{X_{35}},FUwSw
+\overline{X_{70}},FuwGW
+X_{70},FHFv_
+\overline{X_{14}},FQFf_
+X_{14},FlwWW
+\overline{X_{34}},FDauo
+X_{34},Fy\HG
+X_{40},FhhoW
+\overline{X_{40}},FUUN_
+\overline{X_{1}},FDa]o
+X_{1},Fy\`G
+X_{10},FrGXW
+\overline{X_{10}},FKve_
+\overline{X_{17}},FKzc_
+X_{17},FrCZW
+X_{31},FhFx?
+\overline{X_{31}},FUwEw
+\overline{X_{86}},FUWZG
+X_{86},Fhfco
+X_{93},FErf?
+\overline{X_{93}},FxKWw
+X_{99},FFzc?
+\overline{X_{99}},FwCZw
+X_{100},FgCNw
+\overline{X_{100}} = \overline{2P_{3}}\cup K_{1},FVzo?
+X_{101},FwC\g
+\overline{X_{101}},FFzaO
+X_{102},FgC^g
+\overline{X_{102}},FVz_O
+X_{104},FxELO
+co-X_{104},FExqg
+\overline{X_{107}},FUPqg
+X_{107},FhmLO
+\overline{X_{133}},FU@]W
+X_{133},Fh}`_
+\overline{X_{108}} = C_{7}\cup K_{1},GhCKG?
+X_{108},GUzrv{
+2C_{4},Gl?GGS
+\overline{2C_{4}},GQ~vvg
+X_{19},GhCI@C
+\overline{X_{19}},GUzt}w
+sunlet_{4},Gl`@?_
+\overline{sunlet_{4}},GQ]}~[
+C_{8},GhCGKC
+\overline{C_{8}},GUzvrw
+X_{71},GiGWGO
+\overline{X_{71}},GTvfvk
+X_{77},GxEG_G
+\overline{X_{77}},GExv^s
+X_{165},Gl`H?_
+\overline{X_{165}},GQ]u~[
+X_{152},GO?O~C
+\overline{X_{152}},Gn~n?w
+X_{74},G?pk`c
+\overline{X_{74}},G~MR]W
+X_{180} = 2diamond,G|?GWS
+\overline{X_{180}},GA~vfg
+X_{164},Gl`H?c
+\overline{X_{164}},GQ]u~W
+X_{29},G?bFF_
+\overline{X_{29}},G~[ww[
+\overline{X_{117}},Gk?Xoc
+X_{117},GR~eNW
+\overline{X_{125}} = X_{35}\cup K_{1},GGGqHw
+X_{125},GvvLuC
+X_{204},G|?GYS
+\overline{X_{204}},GA~vdg
+X_{22},GhSIhC
+\overline{X_{22}},GUjtUw
+X_{26},GkQAhS
+\overline{X_{26}},GRl|Ug
+X_{25},GDhXGo
+\overline{X_{25}},GyUevK
+X_{181},G|GGWS
+\overline{X_{181}},GAvvfg
+X_{182},Gh{GGK
+\overline{X_{182}},GUBvvo
+\overline{X_{110}} = \overline{X_{35}}\cup K_{1},GBTHqC
+X_{110},G{iuLw
+\overline{X_{114}},GgGsHw
+X_{114},GVvJuC
+\overline{X_{116}},GgKkpC
+X_{116},GVrRMw
+\overline{X_{53}},GUxQS_
+X_{53},GhElj[
+X_{28},GlUad?
+\overline{X_{28}},GQh\Y{
+X_{185},GhRHhC
+\overline{X_{185}},GUkuUw
+\overline{X_{188}},GQLTUG
+X_{188},Glqihs
+X_{79},GhELQg
+\overline{X_{79}},GUxqlS
+X_{111},GhKMKg
+\overline{X_{111}},GUrprS
+\overline{X_{115}},GkGohw
+X_{115},GRvNUC
+\overline{X_{119}},G@zsT?
+X_{119},G}CJi{
+\overline{X_{124}},GRTKqC
+X_{124},GkirLw
+X_{126},GSW]J_
+\overline{X_{126}},Gjf`s[
+X_{131},GJEw[_
+\overline{X_{131}},GsxFb[
+X_{142},Gl_fa_
+\overline{X_{142}},GQ^W\[
+\overline{X_{150}},GQMWD[
+X_{150},Glpfy_
+\overline{X_{52}},GUxQU_
+X_{52},GhElh[
+X_{80},GhELQk
+\overline{X_{80}},GUxqlO
+X_{47},GhEhhW
+\overline{X_{47}},GUxUUc
+X_{48},GhElHW
+\overline{X_{48}},GUxQuc
+X_{178},GnfB@_
+\overline{X_{178}},GOW{}[
+\overline{X_{187}},GQLTUW
+X_{187},Glqihc
+X_{189},GhdWJS
+\overline{X_{189}},GUYfsg
+\overline{X_{192}},GUWmdG
+X_{192},GhfPYs
+\overline{X_{193}},GUXPQ[
+X_{193},Gheml_
+X_{109},GhCMLw
+\overline{X_{109}},GUzpqC
+\overline{X_{118}},G[bpoc
+X_{118},Gb[MNW
+\overline{X_{120}},GUrpb?
+X_{120},GhKM[{
+X_{121},GxKJKg
+\overline{X_{121}},GErsrS
+\overline{X_{123}},Gbe@s[
+X_{123},G[X}J_
+X_{135},GHPjn?
+\overline{X_{135}},GumSO{
+\overline{X_{137}},GEmSO{
+X_{137},GxPjn?
+X_{143},Gl_fq_
+\overline{X_{143}},GQ^WL[
+X_{144},Gl`fa_
+\overline{X_{144}},GQ]W\[
+\overline{X_{149}},GQMWL[
+X_{149},Glpfq_
+\overline{X_{151}},GQ]WD[
+X_{151},Gl`fy_
+\overline{X_{161}},GSiSFw
+X_{161},GjTjwC
+X_{50},GhEhh[
+\overline{X_{50}},GUxUU_
+X_{51},GhElH[
+\overline{X_{51}},GUxQu_
+X_{49},GhElhW
+\overline{X_{49}},GUxQUc
+S_{4},G~fB@_
+X_{186},Ghqihc
+X_{190},GVWs]G
+\overline{X_{190}},GgfJ`s
+X_{191},GhfPYS
+\overline{X_{191}},GUWmdg
+X_{83},GjbiJC
+\overline{X_{83}},GS[Tsw
+X_{112},GjCMNW
+\overline{X_{112}},GSzpoc
+X_{113},GxCJLw
+\overline{X_{113}},GEzsqC
+X_{122},G{guHo
+\overline{X_{122}},GBVHuK
+X_{136},GXPjn?
+\overline{X_{136}},GemSO{
+X_{145},Glpfa_
+\overline{X_{145}},GQMW\[
+X_{146},Gl`fi_
+\overline{X_{146}},GQ]WT[
+X_{147},Gh`fy_
+\overline{X_{147}},GU]WD[
+X_{148},Gl`fq_
+\overline{X_{148}},GQ]WL[
+X_{160},GjTJwC
+X_{94},HgSG?S@
+\overline{X_{94}},HVjv~j}
+X_{91},HgCg?Cd
+\overline{X_{91}},HVzV~zY
+X_{73},HhEI?_C
+\overline{X_{73}},HUxt~^z
+X_{43},HhD@GcA
+\overline{X_{43}},HUy}vZ|
+X_{21},HhSIgC_
+\overline{X_{21}},HUjtVz^
+X_{138},HQr?OJK
+\overline{X_{138}},HlK~nsr
+X_{24},HLCgLS@
+\overline{X_{24}},HqzVqj}
+BW_{4},HhCGKEi
+\overline{BW_{4}},HUzvrxT
+X_{139},HQr?OJk
+\overline{X_{139}},HlK~nsR
+X_{141},HQR?OJm
+\overline{X_{141}},Hlk~nsP
+X_{23},HhSIkCa
+\overline{X_{23}},HUjtRz\
+X_{140},HQr?OJm
+\overline{X_{140}},HlK~nsP
+X_{179},H{OebQc
+\overline{X_{179}},HBnX[lZ
+X_{154},HO?O~Mr
+\overline{X_{154}},Hn~n?pK
+\overline{X_{56}},HUxQScB
+X_{56},HhEljZ{
+X_{153},HO?O~Nr
+\overline{X_{153}},Hn~n?oK
+X_{201},H~|_{A?
+\overline{X_{201}},H?A^B|~
+\overline{X_{55}},HUxQScZ
+X_{55},HhEljZc
+\overline{X_{54}},HUxQSdJ
+X_{54},HhEljYs
+"X_{202} = L(K_{3,3})",H{S{aSf
+X_{81},IkCOK?@A?
+T_{3},IhCGG_@?G
+X_{75},IhEI@?CA?
+\overline{X_{75}},IUxt}~z|w
+X_{44},IhCH?cA?W
+X_{76},IhEI@CCAG
+\overline{X_{76}},IUxt}zz|o
+X_{183},IgCNwC@?W
+\overline{X_{183}},IVzoFz}~_
+X_{174},IheAHCPBG
+\overline{X_{174}},IUX|uzm{o
+X_{72},IheMB?oE?
+\overline{X_{72}},IUXp{~Nxw
+X_{4},IhEFHCxAG
+\overline{X_{4}},IUxwuzE|o
+X_{194},IAzpsX_WG
+\overline{X_{194}},I|CMJe^fo
+X_{195},IzKWWMBoW
+\overline{X_{195}},ICrffp{N_
+\overline{X_{155}},In~mB?WB?
+X_{155},IO?P{~f{w
+\overline{X_{156}},In~mB?WR?
+X_{156},IO?P{~fkw
+X_{157},IO?Pk~fkw
+\overline{X_{157}},In~mR?WR?
+\overline{X_{158}},In|mR?WR?
+X_{158},IOAPk~fkw
+X_{59},JhC?GC@?HA?
+X_{57},JhEljXz{@y_
+X_{203},LhEH?C@CG?_@A@
+X_{196},L~[ww[F?{BwFwF
+\overline{X_{196}},L?bFFbw~B{FwFw

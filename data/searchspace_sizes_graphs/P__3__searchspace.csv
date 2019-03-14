@@ -1,0 +1,4 @@
+k,level,num_k_partitions,num_k_partitions_lb,num_k_partitions_ub
+3,0,1,1,1
+2,1,2,2,3
+1,2,1,1,1

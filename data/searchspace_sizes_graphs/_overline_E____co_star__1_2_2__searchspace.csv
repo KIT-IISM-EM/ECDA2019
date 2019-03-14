@@ -1,0 +1,7 @@
+k,level,num_k_partitions,num_k_partitions_lb,num_k_partitions_ub
+6,0,1,1,1
+5,1,10,5,15
+4,2,35,10,65
+3,3,47,10,90
+2,4,20,5,31
+1,5,1,1,1
